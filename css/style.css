@@ -1,0 +1,17 @@
+/* Thearith Ponn | Sec: 1 | ID: 5988250 */
+
+.container{
+    max-width: 900px;
+}
+
+.bg{
+    width: 220px;
+    height: 220px;
+    background-size: cover;
+    background-position: center;
+}
+#Search-Box{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
